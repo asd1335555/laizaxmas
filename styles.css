@@ -4,9 +4,6 @@ body {
     align-items: center;
     height: 90vh;
     background-color: rgb(78, 250, 161);
-    max-width: 100%;
-    padding: 20px;
-    box-sizing: border-box;
 }
 
 #noButton {
@@ -22,7 +19,7 @@ body {
 
 .header_text {
     font-family: 'Nunito';
-    font-size: 40px;
+    font-size: 20px;
     font-weight: bold;
     color: white;
     text-align: center;
